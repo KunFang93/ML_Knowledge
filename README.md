@@ -8,3 +8,5 @@
 [强/弱分类器](https://blog.csdn.net/hxxjxw/article/details/108269092?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-108269092-blog-12749233.pc_relevant_recovery_v2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-108269092-blog-12749233.pc_relevant_recovery_v2&utm_relevant_index=2)
 
 [How to Train a Final Machine Learning Model](https://machinelearningmastery.com/train-final-machine-learning-model/)
+
+[How to perform feature selection with gridsearchcv in sklearn in python](https://stackoverflow.com/questions/55609339/how-to-perform-feature-selection-with-gridsearchcv-in-sklearn-in-python)
