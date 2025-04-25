@@ -23,3 +23,5 @@
 [Relative variable importance for Boosting](https://stats.stackexchange.com/questions/162162/relative-variable-importance-for-boosting)
 
 [Hyperparameter Tuning XGBoost with early stopping](https://macalusojeff.github.io/post/HyperparameterTuningXGB/)
+
+[How should Feature Selection and Hyperparameter optimization be ordered in the machine learning pipeline?](https://stats.stackexchange.com/questions/264533/how-should-feature-selection-and-hyperparameter-optimization-be-ordered-in-the-m)
