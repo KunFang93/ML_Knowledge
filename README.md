@@ -1,5 +1,11 @@
 # ML_Knowledge
 
+## Deep Learning
+[Deep Learning Book(MIT)](https://www.deeplearningbook.org/)
+
+[Deep Learning Rules of Thumb](https://macalusojeff.github.io//post/DeepLearningRulesOfThumb/)
+
+
 ## Ensemble Learning
 [集成学习(bagging, boosting, stacking)](https://zhuanlan.zhihu.com/p/27689464).  
 
