@@ -15,3 +15,5 @@
 [How is the feature score(/importance) in the XGBoost package calculated?](https://stackoverflow.com/questions/34218245/how-is-the-feature-score-importance-in-the-xgboost-package-calculated)
 
 [Relative variable importance for Boosting](https://stats.stackexchange.com/questions/162162/relative-variable-importance-for-boosting)
+
+[Hyperparameter Tuning XGBoost with early stopping](https://macalusojeff.github.io/post/HyperparameterTuningXGB/)
