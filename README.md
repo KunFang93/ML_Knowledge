@@ -10,3 +10,6 @@
 [How to Train a Final Machine Learning Model](https://machinelearningmastery.com/train-final-machine-learning-model/)
 
 [How to perform feature selection with gridsearchcv in sklearn in python](https://stackoverflow.com/questions/55609339/how-to-perform-feature-selection-with-gridsearchcv-in-sklearn-in-python)
+
+## XGBoost
+[How is the feature score(/importance) in the XGBoost package calculated?](https://stackoverflow.com/questions/34218245/how-is-the-feature-score-importance-in-the-xgboost-package-calculated)
