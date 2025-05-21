@@ -27,3 +27,6 @@
 [How should Feature Selection and Hyperparameter optimization be ordered in the machine learning pipeline?](https://stats.stackexchange.com/questions/264533/how-should-feature-selection-and-hyperparameter-optimization-be-ordered-in-the-m)
 
 [Is feature selection step necessary before XGBoost?](https://github.com/dmlc/xgboost/issues/7718)
+
+## GMM
+[Different covariance types for Gaussian Mixture Models](https://stats.stackexchange.com/questions/326671/different-covariance-types-for-gaussian-mixture-models)
